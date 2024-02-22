@@ -1,0 +1,86 @@
+<style type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
+
+.graphicphic { 
+  position: relative;
+  left: auto;
+ right: auto;
+  top: 58px;
+  width: 75px; 
+  height: 75px; 
+  background-color: #fff;
+  padding: 2px;
+  border-radius: 0%; 
+  border: 1px solid #d3afba;}
+
+.sir-two { 
+  position: relative;
+  left: auto;
+ right: auto;
+ top: 58px;
+  width: 240px; 
+  font-family: 'Titillium Web';
+  font-weight: 400; 
+  letter-spacing: 0px;
+  text-transform: uppercase; 
+  font-size: 10px; 
+  text-align: center; 
+  color: #b2b2b2; 
+  line-height: 100%; 
+  padding: 10px 0px 10px 0px; }
+
+.playtxt {
+  width: 240px;
+  height: 470px;
+  background-image: url('https://i.ibb.co/0D8ccQJ/comm2.png');
+  position: relative;
+  overflow: hidden; }
+
+.around {
+    position: absolute;
+    left: 15px;
+    top: 77px;
+  width: 180px;
+  height: 376px;
+  background-color: #fff; }
+
+.myu {
+  position: absolute;
+  top: 175px;
+  left: 30px;
+  width: 210px;
+  height: 266px;
+  overflow: auto;
+  padding-right: 5px; }
+
+
+.myu::-webkit-scrollbar { width: 0 !important }
+
+
+.playtxt h1 {
+  max-width: 195px;
+  min-width: 30px;
+  min-height: 3px;
+  overflow-x: hidden;
+  padding: 7px 10px 7px 10px;
+  background-color: #d3afba;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  font-size: 10px;
+  font-weight: 300; 
+  line-height: 100%;
+  font-family: calibri;
+  text-transform: lowercase;
+  color: #fff;
+  text-align: left;
+  float: right;
+  clear: both; 
+  margin-right: 30px;}
+
+.playtxt h1 img { width:100%; border-radius: 9px; padding: 3px 0px 3px 0px; }
+
+
+
+</style>
